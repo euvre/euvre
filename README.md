@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="title" align=center>
 
-<!--
-**euvre/euvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=std::println(%22Hello, world!%22)" />
+    </a>
+  </div>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euvre&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/讨厌-学习-blue) 
+![](https://img.shields.io/badge/性格-我是煞笔！-red) 
+![](https://img.shields.io/badge/爱好-Vocaloid-gold)
+
+![Visitor Count](https://profile-counter.glitch.me/euvre/count.svg)
+
+</div>
