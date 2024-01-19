@@ -14,10 +14,6 @@
 ![](https://img.shields.io/badge/日常状态-欧耶！我是煞笔！-red) 
 ![](https://img.shields.io/badge/梦想-我想当科学家-green) 
 
-<audio controls>
-  <source src="./res/audio/まらしぃ 堀江晶太 鏡音リン じん - 新人類 (feat. 鏡音リン).flac" type="video/mp4" />
-</audio>
-
 <div>
 
 🧠 学习计划
