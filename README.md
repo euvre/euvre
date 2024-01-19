@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/梦想-我想当科学家-green) 
 
 <audio controls>
-  <source src="./res/audio/aguagu11 蒼姫ラピス - while (money＞0).flac" type="video/mp4" />
+  <source src="./res/audio/まらしぃ 堀江晶太 鏡音リン じん - 新人類 (feat. 鏡音リン).flac" type="video/mp4" />
 </audio>
 
 <div>
