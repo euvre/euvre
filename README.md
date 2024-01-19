@@ -18,7 +18,7 @@
 
 🧠 学习计划
 
-![C++ Badge](https://img.shields.io/badge/Morden_C%2B%2B-005599?logo=cplusplus&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/Modern_C%2B%2B-005599?logo=cplusplus&logoColor=fff&style=flat)
 ![InnoDB Badge](https://img.shields.io/badge/InnoDB-444444?logo=mysql&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux_Kernel-222222?logo=linux&logoColor=fff&style=flat)
 
