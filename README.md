@@ -21,6 +21,8 @@
 ![C++ Badge](https://img.shields.io/badge/Modern_C%2B%2B-005599?logo=cplusplus&logoColor=fff&style=flat)
 ![InnoDB Badge](https://img.shields.io/badge/InnoDB-444444?logo=mysql&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux_Kernel-222222?logo=linux&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-c61914?logo=Redis&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/RocksDB-fdbe00?logo=RocksDB&logoColor=fff&style=flat)
 
 </div>
 
