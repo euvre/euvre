@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/badge/讨厌的东西-学习-blue) 
 ![](https://img.shields.io/badge/喜欢的东西-Vocaloid-gold)
-![](https://img.shields.io/badge/日常状态-欧耶！我是煞笔！-red) 
+![](https://img.shields.io/badge/日常状态-我是煞笔！-red) 
 ![](https://img.shields.io/badge/梦想-我想当科学家-green) 
 
 <div>
