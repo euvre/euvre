@@ -43,7 +43,9 @@
 
 <div>
 
-![Visitor Count](https://profile-counter.glitch.me/euvre/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/euvre/count.svg) -->
+
+![Viewer counts](https://komarev.com/ghpvc/?username=euvre&color=FFA500)
 
 </div>
 
