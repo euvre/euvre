@@ -7,7 +7,7 @@
     </a>
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euvre&show_icons=true&theme=radical)
+![GitHub stats](./profile/stats.svg)
 
 ![](https://img.shields.io/badge/讨厌的东西-学习-blue) 
 ![](https://img.shields.io/badge/喜欢的东西-Vocaloid-gold)
