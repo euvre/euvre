@@ -9,6 +9,8 @@
 
 ![GitHub stats](./profile/stats.svg)
 
+![Most used lang](./profile/top-langs.svg)
+
 ![](https://img.shields.io/badge/讨厌的东西-学习-blue) 
 ![](https://img.shields.io/badge/喜欢的东西-Vocaloid-gold)
 ![](https://img.shields.io/badge/日常状态-我是煞笔！-red) 
