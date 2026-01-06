@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="115"
-        viewBox="0 0 300 115"
+        height="165"
+        viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -119,51 +119,45 @@
         >
           
     <svg data-testid="lang-items" x="25">
-      
-  
-      <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
-        </mask>
-        
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="0"
-          y="0"
-          width="208.66"
-          height="8"
-          fill="#f34b7d"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="208.66"
-          y="0"
-          width="41.34"
-          height="8"
-          fill="#DA3434"
-        />
-      
-      
-    <g transform="translate(0, 25)">
-      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+      <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 83.47%
-      </text>
-    </g>
-  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
-    <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 16.53%
-      </text>
-    </g>
-  </g></g>
-    </g>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
+      <text x="215" y="34" class="lang-name">83.47%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="83.46538274012677%">
+        <rect
+            height="8"
+            fill="#f34b7d"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 750ms;"
+        />
+      </svg>
+    </svg>
   
+    </g>
+  </g><g transform="translate(0, 40)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">CMake</text>
+      <text x="215" y="34" class="lang-name">16.53%</text>
+      
+    <svg width="205" x="0" y="25">
+      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
+      <svg data-testid="lang-progress" width="16.534617259873233%">
+        <rect
+            height="8"
+            fill="#DA3434"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 900ms;"
+        />
+      </svg>
+    </svg>
+  
+    </g>
+  </g>
     </svg>
   
         </g>
