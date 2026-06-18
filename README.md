@@ -1,14 +1,14 @@
-> 1. The programmer said: "There must be a repository," and Codex initialized the repository. This was the first hour.
+> The programmer said: "There must be a repository," and Codex initialized the repository. This was the first hour.<sup>1-1</sup>
 >
-> 2. The programmer said: "There must be separation between code—keep entry points and implementations apart," so 'src', 'test', and 'docs' each took their place. This was the second hour.
+> The programmer said: "There must be separation between code—keep entry points and implementations apart," so 'src', 'test', and 'docs' each took their place. This was the second hour.<sup>1-2</sup>
 >
-> 3. The programmer said: "There must be interfaces so people know how to use it." Thus types and contracts became clear. This was the third hour.
+> The programmer said: "There must be interfaces so people know how to use it." Thus types and contracts became clear. This was the third hour.<sup>1-3</sup>
 >
-> 4. The programmer said: "There must be tests to distinguish runnable from non-runnable." So the reds grew fewer and the greens more. This was the fourth hour.
+> The programmer said: "There must be tests to distinguish runnable from non-runnable." So the reds grew fewer and the greens more. This was the fourth hour.<sup>1-4</sup>
 >
-> 5. At dusk, while he and thirteen subagents reviewed the code, Codex said to him: "5-hours limit reached. reset 9pm." He then stopped working.
+> At dusk, while he and thirteen subagents reviewed the code, Codex said to him: "5-hours limit reached. reset 9pm." He then stopped working.<sup>1-5</sup>
 > 
-> ***Create new folder***
+> ***Vible — Chapter I: Create New Folder***
 
 <div id="title" align=center>
 
