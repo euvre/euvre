@@ -1,3 +1,15 @@
+> 1. The programmer said: "There must be a repository," and Codex initialized the repository. This was the first hour.
+>
+> 2. The programmer said: "There must be separation between code—keep entry points and implementations apart," so 'src', 'test', and 'docs' each took their place. This was the second hour.
+>
+> 3. The programmer said: "There must be interfaces so people know how to use it." Thus types and contracts became clear. This was the third hour.
+>
+> 4. The programmer said: "There must be tests to distinguish runnable from non-runnable." So the reds grew fewer and the greens more. This was the fourth hour.
+>
+> 5. At dusk, while he and thirteen subagents reviewed the code, Codex said to him: "5-hours limit reached. reset 9pm." He then stopped working.
+> 
+> ***Create new folder***
+
 <div id="title" align=center>
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -11,12 +23,18 @@
 
 ![Most used lang](./profile/top-langs.svg)
 
+</div>
+
+<div align=center>
+  
 ![](https://img.shields.io/badge/讨厌的东西-学习-blue) 
 ![](https://img.shields.io/badge/喜欢的东西-Vocaloid-gold)
 ![](https://img.shields.io/badge/日常状态-我是煞笔！-red) 
 ![](https://img.shields.io/badge/梦想-我想当科学家-green) 
+  
+</div>
 
-<div>
+<div align=center>
 
 🧠 学习计划
 
@@ -28,7 +46,7 @@
 
 </div>
 
-<div>
+<div align=center>
 
 🧰 常用工具
 
@@ -41,12 +59,10 @@
 
 </div>
 
-<div>
+<div align=center>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/euvre/count.svg) -->
 
 ![Viewer counts](https://komarev.com/ghpvc/?username=euvre&color=FFA500)
-
-</div>
 
 </div>
