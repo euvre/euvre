@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">euvre&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  : 694, Total PRs: 313, Total Issues: 8, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  : 694, Total PRs: 315, Total Issues: 8, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.33484613768107;
+        stroke-dashoffset: 139.31242741532975;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >313</text>
+      >315</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
